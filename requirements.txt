@@ -1,3 +1,4 @@
 homeassistant
 pytest-homeassistant-custom-component
 ruff
+requests>=2.32.0 # not directly required, pinned by Snyk to avoid a vulnerability
